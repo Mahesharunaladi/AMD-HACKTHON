@@ -1,4 +1,4 @@
-# Essence - Personalized Learning Platform
+8# Essence - Personalized Learning Platform
 
 🎓 **Learn Smarter, Not Harder**
 
@@ -100,6 +100,4 @@ Contributions, issues, and feature requests are welcome!
 ## 📄 License
 This project is created for AMD Hackathon 2024.
 
----
-
-Made with ❤️ in India
+study smart not hard guys✌️
